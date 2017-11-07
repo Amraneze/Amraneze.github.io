@@ -23,14 +23,14 @@
           'authSecret': 'Bg2mgkbmfHu4z-M'
         }*/
 		'prod': {
-            'appId': 64642,
-            'authKey': 'YnYN6jgZKHxGdf7',
-            'authSecret': 'aU2RxQULspdCXyx'
+            'appId': 39854,
+            'authKey': 'JtensAa9y4AM5Yk',
+            'authSecret': 'AsDFwwwxpr3LN5w'
         },
         'test': {
-            'appId': 64642,
-            'authKey': 'YnYN6jgZKHxGdf7',
-            'authSecret': 'aU2RxQULspdCXyx'
+            'appId': 39854,
+            'authKey': 'JtensAa9y4AM5Yk',
+            'authSecret': 'AsDFwwwxpr3LN5w'
         }
     };
 
