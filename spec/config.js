@@ -7,9 +7,9 @@
     if(NEW_SERVER){
 
       var CREDS =  {
-          'appId': 63873,
-          'authKey': 'jNGDmtMWVO5473d',
-          'authSecret': 'Bg2mgkbmfHu4z-M'
+		  'appId': 39854,
+          'authKey': 'JtensAa9y4AM5Yk',
+          'authSecret': 'AsDFwwwxpr3LN5w'
       };
 
       var QBUser1 = {
